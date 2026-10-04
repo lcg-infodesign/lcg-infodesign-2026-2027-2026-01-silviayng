@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "lcg-infodesign-2026-2027"
+assignment: "2026-01"
+owner:
+  username: "silviayng"
+  id: 329559747
+  accepted_at: "2026-10-04T09:53:47Z"
+source:
+  owner: "lcg-infodesign"
+  owner_id: 179685124
+  repo: "P5-empty-project"
+  branch: "main"
